@@ -1,0 +1,17 @@
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\demoForQuicClient60.exe
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\demoForQuicClient60.deps.json
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\demoForQuicClient60.runtimeconfig.json
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\demoForQuicClient60.dll
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\demoForQuicClient60.pdb
+F:\TempSpace\HelloCommunication\demoForQuicClient60\bin\Debug\net6.0\Quic.NET.dll
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.csproj.AssemblyReference.cache
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.GeneratedMSBuildEditorConfig.editorconfig
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.AssemblyInfoInputs.cache
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.AssemblyInfo.cs
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.csproj.CoreCompileInputs.cache
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.csproj.CopyComplete
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.dll
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\refint\demoForQuicClient60.dll
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.pdb
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\demoForQuicClient60.genruntimeconfig.cache
+F:\TempSpace\HelloCommunication\demoForQuicClient60\obj\Debug\net6.0\ref\demoForQuicClient60.dll

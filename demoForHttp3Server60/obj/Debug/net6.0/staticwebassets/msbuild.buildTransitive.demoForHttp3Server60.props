@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\demoForHttp3Server60.props" />
+</Project>

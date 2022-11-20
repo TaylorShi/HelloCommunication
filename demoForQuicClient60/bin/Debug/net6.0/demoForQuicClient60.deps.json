@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "demoForQuicClient60/1.0.0": {
+        "dependencies": {
+          "Quic.NET": "1.0.0"
+        },
+        "runtime": {
+          "demoForQuicClient60.dll": {}
+        }
+      },
+      "Quic.NET/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Quic.NET.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demoForQuicClient60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quic.NET/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JJl0ov3bOJ0LLupaRhpsoJyut5aECzE2YBY+6h1n832rdItsKInRmIaAtqA0ieRsPut+jMtJB9I9mMqZNU6UrQ==",
+      "path": "quic.net/1.0.0",
+      "hashPath": "quic.net.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGI/3Re4QXMEPxf3aKYdQE5mp7Vevr/Bdld8TYMvA3nmre0u9vlWO16PFh8Mv5wz1XG5p3+GSqsv811r9DiiNg==",
+  "success": true,
+  "projectFilePath": "F:\\TempSpace\\HelloCommunication\\demoForQuicServer60\\demoForQuicServer60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaylorShi\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

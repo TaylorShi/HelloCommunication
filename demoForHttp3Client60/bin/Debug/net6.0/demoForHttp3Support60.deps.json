@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "demoForHttp3Support60/1.0.0": {
+        "runtime": {
+          "demoForHttp3Support60.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demoForHttp3Support60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

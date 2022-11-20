@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WH28p26bq8+z3l2Da04PAK7GRXfVyS/x4Uw2o6JorP4n1L7RxZ7R/QfgPmet0yEiGl5ctjZJa6gzP8AYtl+bSA==",
+  "success": true,
+  "projectFilePath": "F:\\TempSpace\\HelloCommunication\\demoForQuicClient60\\demoForQuicClient60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaylorShi\\.nuget\\packages\\quic.net\\1.0.0\\quic.net.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\bin\Debug\net6.0\demoForHttp3Support60.exe
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\bin\Debug\net6.0\demoForHttp3Support60.deps.json
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\bin\Debug\net6.0\demoForHttp3Support60.runtimeconfig.json
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\bin\Debug\net6.0\demoForHttp3Support60.dll
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\bin\Debug\net6.0\demoForHttp3Support60.pdb
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.csproj.AssemblyReference.cache
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.GeneratedMSBuildEditorConfig.editorconfig
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.AssemblyInfoInputs.cache
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.AssemblyInfo.cs
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.csproj.CoreCompileInputs.cache
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.dll
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\refint\demoForHttp3Support60.dll
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.pdb
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\demoForHttp3Support60.genruntimeconfig.cache
+F:\TempSpace\HelloCommunication\demoForHttp3Support60\obj\Debug\net6.0\ref\demoForHttp3Support60.dll
